@@ -13,17 +13,17 @@ echo"saya dengan anime <br>";
 echo"saya dengan anime <br>";
 echo"saya dengan anime <br>";
 
+
 // menggunakan function 
-
-
 function menu_makanan(){
-    echo"menu makanan di mutuharjo enak <br>";
+    echo"menu makanan di Bakmi Lumayan enak <br>";
 }
 
-menu_makanan(); //function dapar berjalan ketika dipanggil
+menu_makanan(); //function dapat berjalan ketika dipanggil
 menu_makanan();
 menu_makanan();
 menu_makanan();
+
 
 // function jika belum dubaca maka eror undifine
 if(true){
@@ -36,7 +36,6 @@ if(true){
     }
 }
 kelas(); //function kelas sudah dibaca, maka dari itu bisa dipanggoil
-
 
 
 // di dalam function dapat di tambahkan looping atau percabangan
@@ -93,8 +92,9 @@ if (true){
  }
 
  nama_siswa("Roid","Robih","Obis"); //dapat dilihat didalam
-echo "<br>";
- nama_siswa("Kujo","Sara","Wangy"); //kurung ada data atau nilai
+    echo "<br>";
+ nama_siswa("baal","Sara","Wangy"); //kurung ada data atau nilai
+ echo "<br>";
 
 
  
@@ -109,5 +109,8 @@ function penjumlahan(int $bilangan1, $bilangan2){
 }
 
 penjumlahan(100,600); //function dipanggil
+
+
+
 
 ?>

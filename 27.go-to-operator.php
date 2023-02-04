@@ -1,3 +1,4 @@
 <?php
-// tidak di rekomendasikan menggunakan ini 
+// tidak disarankan menggunakan operator ini
+// fitur dimana kita bisa loncat ke kode program sesuai dengan keinginan kita
 ?>
